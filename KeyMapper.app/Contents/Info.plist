@@ -26,5 +26,7 @@
     <string>NSApplication</string>
     <key>NSAppleEventsUsageDescription</key>
     <string>KeyMapper needs to monitor keyboard events to function properly.</string>
+    <key>NSSystemExtensionUsageDescription</key>
+    <string>KeyMapper needs system extension capabilities to monitor keyboard events.</string>
 </dict>
 </plist>

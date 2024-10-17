@@ -1,0 +1,4 @@
+#!/bin/bash
+DIR=$(dirname "$0")
+cd "$DIR"
+/usr/bin/python3 ../Resources/key_mapper.py > ../Resources/stdout.log 2> ../Resources/stderr.log
